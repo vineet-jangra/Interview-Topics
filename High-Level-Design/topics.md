@@ -31,6 +31,12 @@
 * Relational databases
 * NoSQL types: Key-value, Document, Columnar, Graph
 
+### Meta Concepts
+* B-Trees vs. LSM Trees
+* Failure Handling
+* Why, how for all topics
+* Trade off tables between all concepts
+
 ### Concepts
 
 * Indexing

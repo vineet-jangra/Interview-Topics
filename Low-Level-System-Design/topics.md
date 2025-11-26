@@ -54,7 +54,6 @@ These are frequently tested in LLD interviews:
 * Composite
 * Facade
 * Proxy
-* Flyweight
 
 ### ✔ Behavioral
 
@@ -65,8 +64,6 @@ These are frequently tested in LLD interviews:
 * State Pattern
 * Template Method
 * Iterator
-* Mediator
-* Memento
 
 
 ### Others
@@ -113,7 +110,7 @@ Common in Google/Uber:
 * Thread pool
 * Deadlock prevention design
 * Blocking queue
-
+* Meta (SDE2 Requirement: You will be asked to code a ThreadSafeCache or a BlockingQueue. You need to master Java's ReentrantLock, Condition, and CompletableFuture.)
 ---
 
 # **6. Machine Coding Round (Clean Code + Functional LLD)**
