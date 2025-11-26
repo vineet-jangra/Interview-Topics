@@ -1,3 +1,6 @@
+# **0. Meta**
+Don't just read, implement these patterns. Review your own code look at Is this class doing too much?" (Single Responsibility), "Can I easily add a new payment method?" (Open/Closed), "Is this thread-safe?", is this code extensible. etc.
+
 # **1. OOP Foundation**
 
 * Classes & Objects

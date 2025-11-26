@@ -1,3 +1,5 @@
+# **0. Meta**
+Be prepared for specific technology questions: from kafka, rabbitmq, redis etc. 
 ## **1. System Design Fundamentals**
 
 * Monolith vs Microservices
